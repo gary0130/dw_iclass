@@ -1,3 +1,7 @@
+### javascript:window.open(document.getElementById('pdf-viewer').src); ###
+
+-------
+
 dw_iclass file
 
 create a file named in.txt
